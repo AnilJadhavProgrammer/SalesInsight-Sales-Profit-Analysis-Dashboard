@@ -1,4 +1,4 @@
-# 📊 Sales & Profit Analyzer for Product Performance
+# 📊 SalesInsight — Sales & Profit Analysis Dashboard
 
 This Power BI Dashboard provides a comprehensive analysis of sales and profit data across various product categories and regions. It helps businesses identify top-performing products, profit drivers, and opportunities for optimization.
 
